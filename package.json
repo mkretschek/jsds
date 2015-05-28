@@ -1,0 +1,39 @@
+{
+  "name": "jsds",
+  "version": "0.0.0",
+  "description": "Several data structure implementations for JavaScript",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^2.3.0",
+    "gulp": "^3.8.11",
+    "istanbul": "^0.3.14",
+    "lodash": "^3.9.2",
+    "sinon": "^1.14.1",
+    "sinon-chai": "^2.7.0"
+  },
+  "devDependencies": {
+    "gulp-mocha": "^2.1.0",
+    "mocha": "^2.2.5",
+    "yargs": "^3.9.1"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkretschek/jsds"
+  },
+  "keywords": [
+    "data",
+    "structure",
+    "ds",
+    "browserify",
+    "node"
+  ],
+  "author": "Mathias Kretschek <contact@mathias.ms>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkretschek/jsds/issues"
+  },
+  "homepage": "https://github.com/mkretschek/jsds"
+}
